@@ -1,4 +1,4 @@
 <p align="center">
-  <img width="736" height="233" alt="viper" src="https://github.com/user-attachments/assets/7fa435d9-a703-4ee5-9c33-0d2448e4b250" />
+  <img width="736" height="308" alt="𝐑𝐚𝐲𝐚 ˚୨୧⋆｡˚ ⋆" src="https://github.com/user-attachments/assets/0adc6cc8-7db8-4844-8baa-8d74300c13be" />
 </p>
 
