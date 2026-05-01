@@ -10,7 +10,7 @@
 - Scripting
 - Automation
 - Problem solving
-
+- 
 ### C#
 - Console apps
 - Unity basics (if needed)
@@ -20,13 +20,6 @@
 - HTML
 - CSS
 - Responsive design
-
----
-
-<img width="800" height="600" alt="Static TV by Nicole Tan" src="https://github.com/user-attachments/assets/2ad7003d-6539-4983-b5a5-0ff5b420efff" />
-
-
----
 
 ## Skills
 - Python
