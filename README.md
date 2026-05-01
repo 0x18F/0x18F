@@ -1,38 +1,5 @@
-# Hi, I'm 0x18F
-
-  Developer |   Systems & Web |   Always learning
-
 ---
 
-## Tech Stack
-
-### Python
-- Scripting
-- Automation
-- Problem solving
-- 
-### C#
-- Console apps
-- Unity basics (if needed)
-- OOP projects
-
-### Web
-- HTML
-- CSS
-- Responsive design
-
-## Skills
-- Python
-- C# 
-- HTML 
-- CSS 
-- Hex / low-level thinking
+<img width="500" height="500" alt="0x2" src="https://github.com/user-attachments/assets/e54f0739-6c97-4265-b78e-ea8609c7b746" />
 
 ---
-
-## About me
-I like building things, breaking things, and understanding how they work.
-
----
-
-Thanks for visiting!
