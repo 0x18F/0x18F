@@ -23,7 +23,8 @@
 
 ---
 
-![Uploading Static TV by Nicole Tan.gif…]()
+<img width="800" height="600" alt="Static TV by Nicole Tan" src="https://github.com/user-attachments/assets/2ad7003d-6539-4983-b5a5-0ff5b420efff" />
+
 
 ---
 
@@ -36,7 +37,7 @@
 
 ---
 
-## 📡 About me
+## About me
 I like building things, breaking things, and understanding how they work.
 
 ---
